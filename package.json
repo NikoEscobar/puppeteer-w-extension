@@ -1,0 +1,15 @@
+{
+  "name": "puppeteer-with-extension",
+  "version": "1.0.0",
+  "description": "Ajudando o Pai",
+  "main": "launch.js",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node launch.js"
+  },
+  "author": "Niko Escobar",
+  "license": "ISC"
+}
