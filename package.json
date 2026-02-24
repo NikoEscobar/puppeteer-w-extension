@@ -4,7 +4,7 @@
   "description": "Ajudando o Pai",
   "main": "launch.js",
   "dependencies": {
-    "puppeteer": "^2.0.0"
+    "puppeteer": "^24.37.5"
   },
   "devDependencies": {},
   "scripts": {
